@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI 
 - 💞️ I’m looking to collaborate on projects that involve problem solving 
 - 📫 How to reach me ahmed.amer13@gmail.com
-- ```
+```
 print(hi_people)
 ```
 # hello people
