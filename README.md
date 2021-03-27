@@ -6,7 +6,7 @@
 ```
 print(hi_people)
 ```
-# hello people
+# hi_people
 
 <!---
 ahmadamer13/ahmadamer13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
